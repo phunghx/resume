@@ -1,19 +1,25 @@
 # Recognitions
-- award: Present the First Place Award at Drive Drowsiness Detection Contest
-  organization: The 13th ACCV, ACCV Workshop on Driver Drowsiness Detection from Video 2016<br/>
-  year: 2016
-  summary: Contribution paper&#58;&quot;Detection of Driver drowsiness using 3D Deep Neural Network and semi-supervised gradient boosting machine&quot;.
-
-
 - award: Present the First Place at ChaLearn LAP Real Versus Fake Expressed Emotion Challenge 
   organization: ICCV 2017, <a href="https://competitions.codalab.org/competitions/16611#results"> ICCV 2017 Workshop </a><br/>
   year: 2017
   summary: The paper in progression. My team name is phunghx
- 
+
+- award: Present in  NTIRE challenge on example-based single image super-resolution
+  organization: NTIRE 2017, <a href="http://www.vision.ee.ethz.ch/ntire17/"> New Trends in Image Restoration and Enhancement workshop
+and challenge on image super&#45;resolution in conjunction with CVPR 2017</a><br/>
+  year: 2017
+  summary: My team name is phunghx&#45;HCILab<a href="https://github.com/phunghx/resume/blob/gh-pages/pdfs/Timofte-CVPRW-2017.pdf">pdf</a>
+
+
 - award: Present the Second Place at THOR Challenge
   organization: CVPR 2017, <a href="http://vuchallenge.org/thor.html">CVPR 2017 Workshop</a><br/>
   year: 2017
   summary: Applying Deep Reinforcement Learning to Navigation Robot to Explore Target subjects in Indoor  Enviroment. My team name is phunghx
+
+- award: Present the First Place Award at Drive Drowsiness Detection Contest
+  organization: The 13th ACCV, ACCV Workshop on Driver Drowsiness Detection from Video 2016<br/>
+  year: 2016
+  summary: Contribution paper&#58;&quot;Detection of Driver drowsiness using 3D Deep Neural Network and semi-supervised gradient boosting machine&quot;.
 
 - award: top 22&#37; competitors in State Farm Distracted Driver Detection challenge
   organization: Kaggle,  <a href="https://www.kaggle.com/c/state-farm-distracted-driver-detection">State Farm Distracted Driver Detection</a><br/>
