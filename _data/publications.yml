@@ -3,6 +3,11 @@
   title: Detection of Driver Drowsiness Using 3D Deep Neural Network and Semi-Supervised Gradient Boosting Machine
   authors: Phung Huynh,Sang-min Park,Yong-Guk Kim
   journal: ACCV Workshop 2016, <a href="https://www.researchgate.net/publication/315161994_Detection_of_Driver_Drowsiness_Using_3D_Deep_Neural_Network_and_Semi-Supervised_Gradient_Boosting_Machine">pdf</a>
+  
+- year: 2017
+  title: NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results
+  authors: Radu Timofte et al., ... , Xuan-Phung Huynh, ...
+  journal: CVPR Workshop 2017, <a href="http://www.vision.ee.ethz.ch/ntire17/">The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops</a>,<a href="">pdf</a>
 
 - year: 2016
   title: Convolutional Neural Network Models for Facial Expression Recognition Using 3D-BUFE Database
