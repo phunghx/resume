@@ -1,8 +1,9 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Nuclear Power Plant
-  year: 2010
-  summary: Awarded for stopping a nuclear meltdown, even though I also started it.
+- award: Present the First Place Award at Drive Drowsiness Detection Contest
+  organization: The 13th ACCV, ACCV Workshop on Driver Drowsiness Detection from Video 2016
+  year: 2016
+  summary: Contribution paper&#58;&quot;Detection of Driver drowsiness using 3D Deep Neural Network and semi-supervised gradient boosting machine&quot;.
+
 
 - award: Duff Beer Customer of the year
   organization:
