@@ -1,18 +1,20 @@
 # Publications
+- year: 2017
+  title: Detection of Driver Drowsiness Using 3D Deep Neural Network and Semi-Supervised Gradient Boosting Machine
+  authors: Phung Huynh,Sang-min Park,Yong-Guk Kim
+  journal: ACCV Workshop 2016, <a href="https://www.researchgate.net/publication/315161994_Detection_of_Driver_Drowsiness_Using_3D_Deep_Neural_Network_and_Semi-Supervised_Gradient_Boosting_Machine">pdf</a>
+
+- year: 2016
+  title: Convolutional Neural Network Models for Facial Expression Recognition Using 3D-BUFE Database
+  authors: Phung Huynh,Tien-Duc Tran,Yong-Guk Kim
+  journal: Information Science and Applications (ICISA) 2016, <a href="https://www.researchgate.net/publication/295938934_Convolutional_Neural_Network_Models_for_Facial_Expression_Recognition_Using_3D-BUFE_Database">pdf</a>
+
 - year: 2016
   title: Tracking a Human Fast and Reliably Against Occlusion and Human-Crossing
   authors: Phung Huynh, In-Ho Choi, Yong-Guk Kim
   journal: Pacific-Rim Symposium on Image and Video Technology, <a href="https://link.springer.com/chapter/10.1007/978-3-319-29451-3_37">Springer</a>
   
-- year: 2016
-  title: Convolutional Neural Network Models for Facial Expression Recognition Using 3D-BUFE Database
-  authors: Phung Huynh,Tien-Duc Tran,Yong-Guk Kim
-  journal: Information Science and Applications (ICISA) 2016, <a href="https://www.researchgate.net/publication/295938934_Convolutional_Neural_Network_Models_for_Facial_Expression_Recognition_Using_3D-BUFE_Database">pdf</a>
   
-- year: 2017
-  title: Detection of Driver Drowsiness Using 3D Deep Neural Network and Semi-Supervised Gradient Boosting Machine
-  authors: Phung Huynh,Sang-min Park,Yong-Guk Kim
-  journal: ACCV Workshop 2016, <a href="https://www.researchgate.net/publication/315161994_Detection_of_Driver_Drowsiness_Using_3D_Deep_Neural_Network_and_Semi-Supervised_Gradient_Boosting_Machine">pdf</a>
   
   
   
