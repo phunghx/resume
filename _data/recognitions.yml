@@ -5,11 +5,11 @@
   summary: Contribution paper&#58;&quot;Detection of Driver drowsiness using 3D Deep Neural Network and semi-supervised gradient boosting machine&quot;.
 
 
-- award: Duff Beer Customer of the year
-  organization:
-  year: 1997 &mdash; 2001, 2003, 2008 &mdash; 2012
-  summary: Honored by <a href="https://en.wikipedia.org/wiki/Duff_Beer">Duff Beer</a> for being an outstanding customer several years straight. Qualifications included most beer consumed at a bar, most beer purchased, and most beer ralphed.
-
+- award: Present the First Place at ChaLearn LAP Real Versus Fake Expressed Emotion Challenge 
+  organization: ICCV 2017, <a href="https://competitions.codalab.org/competitions/16611#results"> ICCV 2017 Workshop </a>
+  year: 2017
+  summary: The paper in progression. My team name is phunghx
+ 
 - award: Moe's Patron of the Month
   organization: 
   year: 12/2001, 8/2004
