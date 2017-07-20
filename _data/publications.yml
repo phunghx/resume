@@ -1,5 +1,5 @@
 # Publications
-- award: Present the First Place Award at Drive Drowsiness Detection Contest
-  organization: The 13th ACCV, ACCV Workshop on Driver Drowsiness Detection from Video 2016<br/>
-  year: 2016
-  summary: Contribution paper&#58;&quot;Detection of Driver drowsiness using 3D Deep Neural Network and semi-supervised gradient boosting machine&quot;.
+- project: Applying deep learning for drowsiness driver detection
+  role: Primary Developer
+  duration: 2016 &mdash; Present
+  description: Using deep learning to recognize the driver status
