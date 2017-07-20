@@ -10,7 +10,8 @@
   year: 2017
   summary: The paper in progression. My team name is phunghx
  
-- award: Moe's Patron of the Month
-  organization: 
-  year: 12/2001, 8/2004
-  summary: Specifically this prestigious awarded twice for stopping a robber with my belly.
+- award: Present the Second Place at THOR Challenge
+ organization: CVPR 2017, <a href="http://vuchallenge.org/thor.html">CVPR 2017 Workshop</a>
+ year: 2017
+ summary: Applying Deep Reinforcement Learning to Navigation Robot to Explore Target subjects in Indoor  Enviroment. My team name is phunghx
+ 
