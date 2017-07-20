@@ -83,7 +83,25 @@
       </section>
       <!-- end Education -->
       {% endif %}
+      
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
 
+        {% for paper in site.data.publications %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ paper.project }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ paper.role }}  &bull; {{ paper.duration }}</h4>
+          <p class="resume-item-copy">{{ paper.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
