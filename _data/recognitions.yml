@@ -6,12 +6,12 @@
 
 
 - award: Present the First Place at ChaLearn LAP Real Versus Fake Expressed Emotion Challenge 
-  organization: ICCV 2017, <a href="https://competitions.codalab.org/competitions/16611#results"> ICCV 2017 Workshop </a>
+  organization: ICCV 2017, <a href="https://competitions.codalab.org/competitions/16611#results"> ICCV 2017 Workshop </a><br/>
   year: 2017
   summary: The paper in progression. My team name is phunghx
  
 - award: Present the Second Place at THOR Challenge
- organization: CVPR 2017, <a href="http://vuchallenge.org/thor.html">CVPR 2017 Workshop</a>
- year: 2017
- summary: Applying Deep Reinforcement Learning to Navigation Robot to Explore Target subjects in Indoor  Enviroment. My team name is phunghx
+  organization: CVPR 2017, <a href="http://vuchallenge.org/thor.html">CVPR 2017 Workshop</a><br/>
+  year: 2017
+  summary: Applying Deep Reinforcement Learning to Navigation Robot to Explore Target subjects in Indoor  Enviroment. My team name is phunghx
  
