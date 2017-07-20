@@ -1,5 +1,6 @@
 # Publications
-- project: Applying deep learning for drowsiness driver detection
-  role: Primary Developer
-  duration: 2016 &mdash; Present
-  description: Using deep learning to recognize the driver status
+- year: 2016
+  title: Tracking a Human Fast and Reliably Against Occlusion and Human-Crossing
+  authors: Phung Huynh, In-Ho Choi, Yong-Guk Kim
+  journal: Pacific-Rim Symposium on Image and Video Technology <a href="https://link.springer.com/chapter/10.1007/978-3-319-29451-3_37">Springer</a>
+  
