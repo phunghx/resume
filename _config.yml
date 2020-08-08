@@ -11,11 +11,11 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Huynh Xuan Phung"
-resume_title:                   "Machine Learning Researcher"
+resume_title:                   "Ph.D in Machine Learning"
 resume_contact_email:
-  "phunghx@gmail.com"
-resume_header_contact_info: "Sejong University, Dept of Computer Engneering | +82-010-2842-3785 | phunghx@gmail.com"
-resume_header_intro: "<p>I am an PhD student at Sejong University</p>"
+  "phunghx@hcmute.edu.vn"
+resume_header_contact_info: "Ho Chi Minh City University of Technology and Education | +84967853915 | phunghx@hcmute.edu.vn"
+resume_header_intro: "<p>I am Head of Computer Engineering <br/> Information Technology Faculty <br/> Ho Chi Minh City University of Technology and Education, Vietnam </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
